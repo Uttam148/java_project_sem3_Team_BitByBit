@@ -1,2 +1,3 @@
-# java_project_sem3_Team_BitByBit
-GUVI project sem 3 by Team BitByBit 
+project name : Online Real Estate Management System
+project description : The system manages property listings, rental agreements, and tenants, while allowing managers, tenants, and administrators to handle listings, 
+applications, users, and system settings efficiently.

@@ -1,14 +1,14 @@
-Online Real Estate Management System
+###Online Real Estate Management System
 
-Java GUI-Based Desktop Application (Swing + JDBC)
+###Java GUI-Based Desktop Application (Swing + JDBC)
 
-📌 Overview
+##📌 Overview
 
 The Online Real Estate Management System is a Java-based desktop application built to manage property listings, tenants, rental agreements, and administrative tasks. It supports three roles—Managers, Tenants, and Administrators—allowing each to efficiently handle listings, applications, users, and system settings.
 
 This project applies core Java OOP principles, structured modular design, database-backed operations, and JDBC connectivity.
 
-✨ Features
+##✨ Features
 Property Management
 
 Add, edit, delete, and view properties
@@ -33,7 +33,7 @@ Role-based access and system configurations
 
 Monitoring and audit features
 
-GUI
+#GUI
 
 Built with Java Swing
 
@@ -41,7 +41,7 @@ Intuitive navigation and clean UI layouts
 
 Input validation and exception handling
 
-🛠 Technologies Used
+##🛠 Technologies Used
 
 Java (Core + OOP)
 

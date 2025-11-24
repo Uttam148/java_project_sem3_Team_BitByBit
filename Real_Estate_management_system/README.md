@@ -1,6 +1,6 @@
-# Online Real Estate Management System - Full (Hybrid) Implementation (Academic + Demo)
+# Online Real Estate Management System - Full Implementation 
 
-This upgraded project implements both **User** and **Property** inheritance hierarchies, demonstrates collections & generics, includes multithreading with synchronization, and provides full DAO layers with JDBC connectivity.
+This project implements both **User** and **Property** inheritance hierarchies, demonstrates collections & generics, includes multithreading with synchronization, and provides full DAO layers with JDBC connectivity.
 
 ## Highlights
 - AbstractUser → Admin / Manager / TenantUser (inheritance + polymorphism)
